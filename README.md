@@ -53,4 +53,4 @@ We welcome contributions to better-uri! If you encounter any issues, have sugges
 
 ## License
 
-better-uri is licensed under the MIT License.
+better-uri is licensed under the Apache-2.0 License.
