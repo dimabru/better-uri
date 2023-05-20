@@ -1,0 +1,17 @@
+{
+  "name": "better-uri",
+  "version": "1.0.0",
+  "description": "Efficient URI handling for NestJS, preventing duplicates and ensuring best practices for creating new endpoints",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/mapped-types": "^1.2.2",
+    "@types/node": "^20.2.1",
+    "typescript": "^5.0.4"
+  }
+}
